@@ -1,0 +1,4 @@
+{
+  "CATALOG_NAME": "*",
+  "AUDIT_LOGS_BUCKET": "s3://example.com"
+}
